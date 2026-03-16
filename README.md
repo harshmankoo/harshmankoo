@@ -1,28 +1,111 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Harshdeep Singh</h1>
+<h3 align="center">🚀 MERN Stack Developer | React Enthusiast | JavaScript Lover</h3>
 
-<!--
-**harshmankoo/harshmankoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=harshmankoo&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=harshmankoo&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=harshmankoo&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+I am passionate about building modern, scalable, and responsive web applications using the MERN Stack.
+Currently improving my skills in full-stack development and building real-world projects.
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=harshmankoo&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me
+
+- 💻 MERN Stack Developer (MongoDB, Express, React, Node.js)
+- 🌱 Currently learning **Advanced React & Backend Development**
+- 🎯 Goal: Become a **Professional Full Stack Developer**
+- ⚡ Love solving real-world problems with code
+- 📧 Email: **your-email@gmail.com**
+
+---
+
+# 🛠️ Tech Stack
+
+### Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind"/>
+</p>
+
+### Backend
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+</p>
+
+### Database
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb"/>
+</p>
+
+### Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=harshmankoo&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=harshmankoo&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📈 GitHub Activity Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=harshmankoo&theme=react-dark"/>
+
+</p>
+
+---
+
+# 🚀 Current Focus
+
+✔ Building MERN Stack Projects  
+✔ Improving React Performance  
+✔ Learning Backend APIs  
+✔ Mastering JavaScript Concepts  
+
+---
+
+# 💡 Featured Projects
+
+### 🔹 React Projects
+Interactive UI projects built using React.
+
+### 🔹 JavaScript Projects
+Projects focused on core JavaScript concepts.
+
+### 🔹 Full Stack Projects
+Full-stack web applications using MERN stack.
+
+---
+
+# 📫 Connect With Me
+
+<p>
+
+<a href="mailto:your-email@gmail.com">
+<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/harshmankoo">
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+---
+
+# 💬 Developer Quote
+
+> "First, solve the problem. Then, write the code."
+
+---
+
+⭐ **If you like my projects, consider giving them a star!**
