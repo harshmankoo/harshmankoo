@@ -1,24 +1,30 @@
-<h1 align="center">Hi 👋, I'm Harshdeep Singh</h1>
-<h3 align="center">🚀 MERN Stack Developer | React Enthusiast | JavaScript Lover</h3>
-
+<!-- COOL BANNER -->
 <p align="center">
-I am passionate about building modern, scalable, and responsive web applications using the MERN Stack.
-Currently improving my skills in full-stack development and building real-world projects.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Harshdeep%20Singh&fontSize=40&fontColor=ffffff"/>
+</p>
+
+<!-- TYPING INTRO -->
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Harshdeep+Singh;MERN+Stack+Developer;React+%7C+JavaScript+Enthusiast;Future+Full+Stack+Engineer"/>
+</p>
+
+<!-- VISITOR COUNTER -->
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=harshmankoo&label=Profile%20views&color=0e75b6&style=flat"/>
 </p>
 
 ---
 
-## 🚀 About Me
+# 👨‍💻 About Me
 
-- 💻 MERN Stack Developer (MongoDB, Express, React, Node.js)
-- 🌱 Currently learning **Advanced React & Backend Development**
-- 🎯 Goal: Become a **Professional Full Stack Developer**
-- ⚡ Love solving real-world problems with code
-- 📧 Email: **your-email@gmail.com**
+💻 MERN Stack Developer  
+🚀 Building modern web applications  
+📚 Currently learning **Advanced React & Backend Development**  
+🎯 Goal: Become a **Professional Full Stack Developer**
 
 ---
 
-# 🛠️ Tech Stack
+# 🛠 Tech Stack
 
 ### Frontend
 <p>
@@ -46,43 +52,35 @@ Currently improving my skills in full-stack development and building real-world 
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=harshmankoo&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=harshmankoo&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=harshmankoo&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=harshmankoo&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 📈 GitHub Activity Graph
+# 📈 3D Contribution Graph
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=harshmankoo&theme=react-dark"/>
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=harshmankoo&theme=tokyo-night"/>
 </p>
 
 ---
 
-# 🚀 Current Focus
+# 🐍 Snake Contribution Animation
 
-✔ Building MERN Stack Projects  
-✔ Improving React Performance  
-✔ Learning Backend APIs  
-✔ Mastering JavaScript Concepts  
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
+</p>
 
 ---
 
-# 💡 Featured Projects
+# 💻 Developer GIF
 
-### 🔹 React Projects
-Interactive UI projects built using React.
-
-### 🔹 JavaScript Projects
-Projects focused on core JavaScript concepts.
-
-### 🔹 Full Stack Projects
-Full-stack web applications using MERN stack.
+<p align="center">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+</p>
 
 ---
 
@@ -102,10 +100,14 @@ Full-stack web applications using MERN stack.
 
 ---
 
-# 💬 Developer Quote
+# 💡 Developer Quote
 
-> "First, solve the problem. Then, write the code."
+> “First, solve the problem. Then, write the code.”
 
 ---
 
-⭐ **If you like my projects, consider giving them a star!**
+⭐ **If you like my work, consider giving my repositories a star!**
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
+</p>
