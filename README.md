@@ -39,4 +39,4 @@
 
 ⭐ “Consistency beats perfection”
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ravkiratsingh9988&show_icons=true)
+
