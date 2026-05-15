@@ -1,11 +1,11 @@
-# Hi 👋, I'm Harshdeep Singh
+# Hi , I'm Harshdeep Singh
 
-🚀 MERN Stack Developer | Final Year MCA Student  
-💻 Passionate about building scalable web applications  
+MERN Stack Developer | Final Year MCA Student  
+Passionate about building scalable web applications  
 
 ---
 
-## 🔧 Tech Stack
+##  Tech Stack
 
 - Frontend: React.js, Tailwind CSS
 - Backend: Node.js, Express.js
@@ -14,7 +14,7 @@
 
 ---
 
-## 📚 Currently Learning
+##  Currently Learning
 
 - Backend fundamentals (Node.js, APIs)
 - System Design basics
@@ -22,7 +22,7 @@
 
 ---
 
-## 📈 What I Do
+##  What I Do
 
 - Build full-stack applications
 - Practice real-world problem solving
@@ -30,11 +30,11 @@
 
 ---
 
-## 🌐 Connect with me
+## Connect with me
 
 - LinkedIn: https://www.linkedin.com/in/harshdeep-webdev
 
 
 ---
 
-⭐ “Consistency beats perfection”
+ “Consistency beats perfection”
