@@ -73,14 +73,6 @@ charcoal + sage, vanilla JS, built from scratch
 <img src="https://img.shields.io/badge/-Tailwind-6b8f71?style=flat-square" />
 </div>
 
-<br/>
-
-<h3>⌁ stats</h3>
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=harshmankoo&show_icons=true&hide_border=true&title_color=2f4f3f&icon_color=6b8f71&text_color=444444&bg_color=00000000" height="160"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=harshmankoo&hide_border=true&background=00000000&ring=2f4f3f&fire=6b8f71&currStreakLabel=2f4f3f" height="160"/>
-</div>
 
 <br/>
 
