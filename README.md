@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>harshdeep singh</h1>
+<h1>HARSHDEEP SINGH</h1>
 <p><i>full-stack developer · building clean, functional things</i></p>
 
 <img src="https://img.shields.io/badge/-MERN%20STACK-2f4f3f?style=for-the-badge" />
