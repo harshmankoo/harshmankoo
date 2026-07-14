@@ -4,7 +4,7 @@
 <p><i>full-stack developer · building clean, functional things</i></p>
 
 <img src="https://img.shields.io/badge/-MERN%20STACK-2f4f3f?style=for-the-badge" />
-<img src="https://img.shields.io/badge/-MOHALI%2C%20INDIA-6b8f71?style=for-the-badge" />
+<img src="https://img.shields.io/badge/-LUDHIANA%2C%20INDIA-6b8f71?style=for-the-badge" />
 
 </div>
 
