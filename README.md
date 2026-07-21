@@ -73,6 +73,8 @@ charcoal + sage, vanilla JS, built from scratch
 <img src="https://img.shields.io/badge/-MongoDB-2f4f3f?style=flat-square" />
 <img src="https://img.shields.io/badge/-Tailwind-6b8f71?style=flat-square" />
 <img src="https://img.shields.io/badge/-Deployment-6b8f71?style=flat-square" />
+<img src="https://img.shields.io/badge/-REST APIs-6b8f71?style=flat-square" />
+<img src="https://img.shields.io/badge/-AI Integration-6b8f71?style=flat-square" />
 </div>
 
 
