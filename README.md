@@ -65,12 +65,14 @@ charcoal + sage, vanilla JS, built from scratch
 <h3>⌁ stack</h3>
 
 <div align="center">
+  
 <img src="https://img.shields.io/badge/-React-2f4f3f?style=flat-square" />
 <img src="https://img.shields.io/badge/-JavaScript-2f4f3f?style=flat-square" />
 <img src="https://img.shields.io/badge/-Node.js-6b8f71?style=flat-square" />
 <img src="https://img.shields.io/badge/-Express-6b8f71?style=flat-square" />
 <img src="https://img.shields.io/badge/-MongoDB-2f4f3f?style=flat-square" />
 <img src="https://img.shields.io/badge/-Tailwind-6b8f71?style=flat-square" />
+<img src="https://img.shields.io/badge/-Deployment-6b8f71?style=flat-square" />
 </div>
 
 
