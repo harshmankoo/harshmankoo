@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>HARSHDEEP SINGH</h1>
+<h1> HARSHDEEP SINGH </h1>
 <p><i>full-stack developer · building clean, functional things</i></p>
 
 <img src="https://img.shields.io/badge/-MERN%20STACK-2f4f3f?style=for-the-badge" />
@@ -18,7 +18,6 @@ const harsh = {
   education: "MCA, GNDEC Ludhiana — Completed",
   experience: "Trainee @ Net Square Solutions - Completed",
   status: "open to full-time & freelance work",
-  motto: "consistency beats perfection"
 };
 ```
 
