@@ -84,6 +84,6 @@ charcoal + sage, vanilla JS, built from scratch
 
 [portfolio](https://harshdeep-portfolio-two.vercel.app) · [instagram](https://instagram.com/harsh_mankoo_)
 
-<sub>consistency beats perfection</sub>
+<sub> consistency beats perfection </sub>
 
 </div>
