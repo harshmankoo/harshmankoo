@@ -15,7 +15,7 @@
 ```
 const harsh = {
   role: "MERN Stack Developer",
-  education: "MCA, GNDEC Ludhiana — Completed",
+  education: "MCA, GNDEC Ludhiana — 8.20 cgpa",
   experience: "Trainee @ Net Square Solutions - Completed",
   status: "open to full-time & freelance work",
 };
