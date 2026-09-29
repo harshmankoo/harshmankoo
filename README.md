@@ -32,7 +32,7 @@ const harsh = {
 <td width="50%" valign="top">
 
 **devcollab**
-real-time collaboration platform, built on the MERN stack
+real-time collaboration platform, built on the MERN Stack
 
 </td>
 <td width="50%" valign="top">
